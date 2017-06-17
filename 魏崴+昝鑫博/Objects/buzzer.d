@@ -1,0 +1,13 @@
+.\objects\buzzer.o: buzzer.c
+.\objects\buzzer.o: buzzer.h
+.\objects\buzzer.o: D:\weikong\Keil\LPC1100_DFP\1.4.0\Device\Include\LPC11xx\LPC11xx.h
+.\objects\buzzer.o: D:\weikong\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm0.h
+.\objects\buzzer.o: D:\weikong\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\buzzer.o: D:\weikong\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h
+.\objects\buzzer.o: D:\weikong\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h
+.\objects\buzzer.o: D:\weikong\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h
+.\objects\buzzer.o: D:\weikong\Keil\LPC1100_DFP\1.4.0\Device\Include\LPC11xx\system_LPC11xx.h
+.\objects\buzzer.o: Delay.h
+.\objects\buzzer.o: key.h
+.\objects\buzzer.o: D:\weikong\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\buzzer.o: D:\weikong\ARM\ARMCC\Bin\..\include\string.h

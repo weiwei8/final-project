@@ -1,0 +1,13 @@
+.\objects\key.o: key.c
+.\objects\key.o: key.h
+.\objects\key.o: D:\weikong\Keil\LPC1100_DFP\1.4.0\Device\Include\LPC11xx\LPC11xx.h
+.\objects\key.o: D:\weikong\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm0.h
+.\objects\key.o: D:\weikong\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\key.o: D:\weikong\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h
+.\objects\key.o: D:\weikong\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h
+.\objects\key.o: D:\weikong\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h
+.\objects\key.o: D:\weikong\Keil\LPC1100_DFP\1.4.0\Device\Include\LPC11xx\system_LPC11xx.h
+.\objects\key.o: D:\weikong\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\key.o: D:\weikong\ARM\ARMCC\Bin\..\include\string.h
+.\objects\key.o: LED.h
+.\objects\key.o: Delay.h

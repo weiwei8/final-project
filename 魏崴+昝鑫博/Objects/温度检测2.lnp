@@ -1,0 +1,15 @@
+--cpu Cortex-M0+
+".\objects\adc.o"
+".\objects\delay.o"
+".\objects\led.o"
+".\objects\main.o"
+".\objects\uart.o"
+".\objects\buzzer.o"
+".\objects\time.o"
+".\objects\key.o"
+".\objects\startup_lpc11xx.o"
+".\objects\system_lpc11xx.o"
+--strict --scatter ".\Objects\ÎÂ¶È¼ì²â2.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\ÎÂ¶È¼ì²â2.map" -o .\Objects\ÎÂ¶È¼ì²â2.axf
